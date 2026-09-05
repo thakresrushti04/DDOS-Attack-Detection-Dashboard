@@ -73,8 +73,4 @@ The dashboard reports the following classification metrics:
 3. Interact with the dashboard visuals and filters.
 4. Explore the network traffic analysis and classification results.
 
-## Author
 
-**Shrushti**
-
-GitHub: `thakresrushti04`
