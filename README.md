@@ -31,7 +31,7 @@ A Random Forest classification approach is used for attack detection.
 
 ## Dashboard Preview
 
-![DDOS Attack Detection Dashboard](DDod_Dashboard.png)
+DDOS_Dashboard.png
 
 ## Technology Used
 
